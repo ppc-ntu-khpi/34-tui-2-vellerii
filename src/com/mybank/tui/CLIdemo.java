@@ -1,13 +1,3 @@
-# UI Lab 2
-
-## Виконання завдання на "п'ять"
-**В ході виконнаня практичної роботи потрібно було зробити наступне:**
-* виконати завдання "на три", оскільки завдання "на п'ять" потребує виконання завдання "на три";
-* додати ще одну команду - report, яка має виводити звіт за клієнтами.
----
-**Програмний код класу `CLIdemo` наведений нижче.**
-
-```java
 package com.mybank.tui;
 
 import com.mybank.data.DataSource;
@@ -171,13 +161,3 @@ public class CLIdemo {
         shell.run();
     }
 }
-```
----
-
-**Скріншоти виконання програми наведені нижче.**
-
-![](https://github.com/ppc-ntu-khpi/34-tui-2-vellerii/blob/master/result%20of%20execution%201.png "1st result")
-
----
-
-![](https://github.com/ppc-ntu-khpi/34-tui-2-vellerii/blob/master/result%20of%20execution%202.png "2nd result")
