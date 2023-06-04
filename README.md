@@ -174,6 +174,7 @@ public class CLIdemo {
 ```
 ---
 
-**Скріншот виконання програми наведений нижче.**
+**Скріншоти виконання програми наведені нижче.**
 
-![](https://github.com/ppc-ntu-khpi/34-tui-2-vellerii/blob/master/result%20of%20execution.png "result")
+![](https://github.com/ppc-ntu-khpi/34-tui-2-vellerii/blob/master/result%20of%20execution%201.png "1st result")
+![](https://github.com/ppc-ntu-khpi/34-tui-2-vellerii/blob/master/result%20of%20execution%202.png "2nd result")
